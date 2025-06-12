@@ -8,7 +8,7 @@ I'm a junior DevOps engineer passionate about Linux, infrastructure automation, 
 
 ### 🖥️ Linux & System Administration
 - Confident working in the terminal and writing Bash scripts
-- Studying LPIC-1: system architecture, processes, boot, filesystems, partitions, permissions
+- Studying LPIC-2-3: system architecture, processes, boot, filesystems, partitions, permissions
 - Experience with systemd, fstab, mounting, LVM, umask, and user/group management
 
 ### 🐳 Containers & Orchestration
